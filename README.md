@@ -1,3 +1,18 @@
+## HOW TO SETUP LOCAL
+
+### 사전 필요
+- intellij idea
+- JDK 17
+- h2 1.4.200 [Download]https://h2database.com/h2-setup-2019-10-14.exe
+
+### next
+- source clone
+- intellij IDEA open (sbb) [스크린샷]
+- run application [스크린샷]
+
+
+
+
 ## 점프 투 스프링부트3 책의 소스코드
 
 * 위키독스 : https://wikidocs.net/book/7601
